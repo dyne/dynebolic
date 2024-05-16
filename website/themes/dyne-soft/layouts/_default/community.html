@@ -6,7 +6,7 @@
   <div class="content-wrapper">
     <a href="/" alt="back to home">{{ partial "svg/software-icon.svg" . }}</a>
     <div>
-      <h1>{{ .Title }}</h1>
+      <h1>Download {{ .Site.Title }}</h1>
       <p>{{ .Params.description_markdown | markdownify  }}<p>
       <p>{{ range .Params.buttons }}<a href="{{ .URL }}" class="button" style="margin-right:10px;">{{ .label }}</a>{{ end }}</p>
    </div>

@@ -9,6 +9,6 @@ buttons:
     label: IRC
   - URL: https://fed.dyne.org/c/dynebolic
     label: Fediverse
-layout: download
+layout: community
 ---
 
