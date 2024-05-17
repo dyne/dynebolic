@@ -23,10 +23,10 @@ enableRobotsTXT = "false"
 
   [params.geo]
     timezone = "Europe/Netherlands"
-    lat = "52.39679"
-    long = "4.87996"
+    lat = "52.39685"
+    long = "4.88023"
     region = "NL"
-    street = "Haparandadam 7"
+    street = "Haparandadam 7-A1"
     locality = "Amsterdam"
     country = "Netherlands"
     postalcode = "1013AK "
