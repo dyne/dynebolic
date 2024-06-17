@@ -57,7 +57,8 @@ jobs:
           hugo \
             --minify \
             --source website \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            ## Disable to see if URLs are printed securely
+            ##--baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
