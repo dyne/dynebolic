@@ -16,7 +16,7 @@ sections:
     URL: "download/"
 - title: "🫰🏾 In this Babylonian world, money is a vital necessity in order to make one’s voice heard"
   description_markdown: "Capitalist and ideological governments rule the world by using a monopoly on mass television and corporate social media to propagate their principles, and suppress all criticism. **With Dynebolic we break free from exploitative operating systems:** always demanding expensive hardware, giving us gratis players while requiring us to spend money to make and share our own creations."
-  image: "images/gnu-and-penguin-color-300x276.jpg"
+  image: "images/gnu-and-penguin-color-300x276.webp"
   button:
     label: Community
     URL: "community/"
