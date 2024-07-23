@@ -102,13 +102,16 @@ Listen to this recording from BBC World Debate on Future of learning 12 December
 
 
 > Dynebolic is a multimedia studio that you simply pop into any computer and start it up, instantly turning it into a Linux/GNU system without affecting existing things on your computer.
-> - Independent UK "Top 10 open source in 2005"
+>
+> — *Independent UK "Top 10 open source in 2005*
 
 > Readers with older Windows PCs can use dynebolic to run the GNU/Linux version of Pure Data on their machine without affecting their Windows installation, creating audio files in GNU/Linux before transferring them into their sequencer.
-> - Adam Armfield, "Sound on Sound", 2006
+>
+> — *Adam Armfield, "Sound on Sound", 2006*
 
 
 > It has all the right apps for an artist to express his creativity, without the headache of installing and configuring them. It includes some of the best free and open source tools with which you can compose music, mix video streams, and create 3-D animations.
-> - Mayank Sharma, Linux.com, 2007
+>
+> — *Mayank Sharma, Linux.com, 2007*
 
 ## &nbsp;
