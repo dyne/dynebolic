@@ -41,7 +41,7 @@ Also for this new release of Dynebolic there is an easy way to brew your own mod
 ## 👩🏿‍💻 Source code
 To secure your init-freedom, dynebolic IV is based on [Devuan](https://www.devuan.org) and all its build system is published here:
 
-#### [https://git.devuan.org/jaromil/dynebolic](https://git.devuan.org/jaromil/dynebolic)
+<a href="https://git.devuan.org/jaromil/dynebolic" class="button">Inspect the source</a>
 
 ## Be Welcome In a GNU+Linux World!
 
@@ -52,7 +52,7 @@ Fediverse users are invited to contribute with memes, questions and/or discussio
 
 ## What is dynebolic?
 
-### 100% Free, As In Speech
+**100% Free, As In Speech**
 
 Dynebolic is a [GNU+Linux distribution](http://www.gnu.org/distros/free-distros.html) recommended by the **[Free Software Foundation](https://fsf.org)**: no proprietary software is inside, no closed source firmware, no hockus pockus. Everything is transparent and can be peer reviewed. All of this without ever compromising with the expression creatives rely on.
 

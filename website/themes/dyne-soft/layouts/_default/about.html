@@ -15,28 +15,16 @@
 
 
 {{ define "main" }}
+
 <section id="start" class="about">
-  <div class="content-wrapper">
-    <div class="content">
-      <p>{{ .Content }}</p>
-    </div>
-  </div>
-</section>
-<section class="about">
-  {{ range .Page.Params.sections }}
+
   <div class="content-wrapper">
     <div class="text-content">
-      <h2>{{ .title }}</h2>
-      <p>{{ .content_markdown | markdownify }}</p>
-      <p><a href="{{ .button.URL | relURL }}" class="button">{{ .button.label }}</a></p>
+      {{ .Content }}
     </div>
-    <div class="cartouche">
-      <figure>
-        <img src="{{ .image | relURL }}" alt="{{ .name }}" />
-      </figure>
-    </div>
+
   </div>
-  {{ end }}
+
 </section>
 <!-- disable team for now
 <section id="team" class="about">
