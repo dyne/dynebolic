@@ -43,9 +43,8 @@ pre > code {
   min-width: 100px;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: _font(family);
-  text-transform: uppercase;
-  font-weight: 700;
+  font-family: _font(title);
+  font-weight: 500;
   margin-bottom: 24px;
 }
 h1 {
