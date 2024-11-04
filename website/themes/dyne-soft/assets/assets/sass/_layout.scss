@@ -56,7 +56,7 @@
   .content-wrapper {
     .content {
       h1 {
-        font-size: 1.5em;
+        font-size: 2em;
       }
     }
   }
@@ -108,7 +108,7 @@
   }
   @media only screen and (max-width: 999px) {
     div > h1 {
-      font-size: 1.75em;
+      font-size: 2em;
     }
     .imagecontainer {
       background-size: cover;
@@ -187,7 +187,7 @@
         min-width: unset;
         text-align: center;
         h1 {
-          font-size: 1.75em;
+          font-size: 2em;
         }
       }
       .arrow {
@@ -201,9 +201,6 @@ article, section {
   flex: 1 1 100%;
   z-index: 2;
   margin-bottom: -80px;
-  h2 {
-    line-height: 1.16em;
-  }
 }
 
 
@@ -218,7 +215,7 @@ article:first-of-type {
 @media only screen and (max-width: 999px) {
   article, section {
     h2 {
-      font-size: 1.3em;
+      font-size: 1.5em;
     }
   }
 }
@@ -607,7 +604,7 @@ footer {
     }
   }
   .team {
-    font-size: .75em;
+    font-size: 0.75em;
     flex: 1 1 300px;
     display: flex;
     flex-wrap: wrap;
