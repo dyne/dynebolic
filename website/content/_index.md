@@ -27,7 +27,7 @@ sections:
     label: documentation
     URL: https://dyne.org/docs/dynebolic
 ---
-### Dynebolic v.4.0.0 is sitll in beta. [Help us push towards a final release](community)
+### Dynebolic v.4.0.0 is still in beta. [Help us push towards a final release](community)
 **Jah Rastafari Livity Bless Us With Freedom!**
 
 This is Free Software, share it for the good of yourself and the people around you, respect others and let them express, be free and let others be free. Live clean and let your work be seen! May you live a long and prosperous life in peace!
