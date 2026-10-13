@@ -21,16 +21,16 @@ Each activity is easily reached from the desktop panel or via keyboard shortcuts
 
 ## 🫱🏻‍🫲🏿 Join us
 
-Those who remember how dynebolic was already 20 years ago recall well that we are not just working on a wonderful distribution to introduce people to the Free Software Movement and its original values, but we also facilitate a community of creatives that help each other to make this distribution better. You are very welcome to join us in the online channels and give use feedback: this release is BETA, because we need your help.
+Those who remember how dynebolic was already 20 years ago recall well that we are not just working on a wonderful distribution to introduce people to the Free Software Movement and its original values, but we also facilitate a community of creatives that help each other to make this distribution better. You are very welcome to join us in the online channels and give use feedback: we need your help.
 
 - [IRC](https://irc.dyne.org/?channels=dynebolic)
 - [Matrix](https://socials.dyne.org/matrix-dynebolic)
 
-## 🏁 The path to the final release
-While you may already be able to produce work in most workflows with this beta release, expect bugs.
+## 🏁 The path forward
+Dynebolic 4.0.0 is released and we have started working on v5. If you find bugs in 4.0.0, you are welcome to report them. However, keep an eye out for the test releases of the next version.
 
 #### 🔊 Audio production
-This part still needs a lot of love; proper audio routing still needs to be configured. For this, we are currently experimenting with PipeWire, but you are more than welcome to join us in the quest for the optimal interoperable configuration. Dynebolic emphasizes reuse: it is of utmost importance that the final state be compatible with as many devices as possible, including older sound-devices.
+Audio has come along way. For this, we are currently leveraging PipeWire, but you are more than welcome to join us in the quest for the optimal interoperable configuration. Dynebolic emphasizes reuse: it is of utmost importance that the final state be compatible with as many devices as possible, including older sound-devices.
 
 #### 🎨 Wallpaper
 Currently, each activity has a placeholder wallpaper-art that works. But ultimately, we'd love to have an artwork for each workflow. Is this your call? Join us in the channels to propose your vision of the most beautiful and functional artwork.
@@ -48,7 +48,7 @@ To secure your init-freedom, dynebolic IV is based on [Devuan](https://www.devua
 For culture and information to circulate freely and unbiased, media activists, artists and creatives need to be independent from corporate alienation. Dynebolic is an Operating System and a practical tool for **multimedia production**: it enables the manipulation and broadcasting of both **audio and video** with tools to **record**, **edit**, **encode**, **stream**, and publish. Dynebolic automatically recognizes most device and peripherals: audio, video, TV, network cards, firewire, usb and more; all using only free software!
 
 ### Keep the memes based!
-Fediverse users are invited to contribute with memes, questions and/or discussions on the dynebolic [Lemmy](https://fed.dyne.org/c/dynebolic)
+All the people of the world are invited to contribute with memes, questions and/or discussions on the dynebolic [Community channels](/dynebolic/community)
 
 ## What is dynebolic?
 
