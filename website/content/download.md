@@ -1,6 +1,6 @@
 ---
 title: Download Dynebolic v4.0.0
-description_markdown: "**Dynebolic v4.0.0 \n\n
+description_markdown: "**Dynebolic v4.0.0** \n\n
   🔑 Root password is: `dyne`\n\n
   Don't forget to check the [Sha512sum](https://files.dyne.org/dynebolic/dynebolic-4.0.0.iso.sha512sum)\n\n
   Chose a mirror:"
