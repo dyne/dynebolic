@@ -28,6 +28,6 @@ sections:
     URL: https://dyne.org/docs/dynebolic
 ---
 ### Dynebolic needs you! 👉[Help us push it forward](community)
-**No CI, but King Sala CI! _Jah Rastafari Livity Bless Us With Freedom!_ **
+**No CI, but King Sala CI! _Jah Rastafari Livity Bless Us With Freedom!_**
 
 This is Free Software, share it for the good of yourself and the people around you, respect others and let them express, be free and let others be free. Live clean and let your work be seen! May you live a long and prosperous life in peace!
